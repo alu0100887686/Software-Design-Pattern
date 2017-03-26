@@ -8,6 +8,6 @@ public class VlcPlayer implements AdvancedMediaPlayer{
 
   @Override
   public void playMp4(String fileName) {
-     //do nothing
+     // do nothing
   }
 }
